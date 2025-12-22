@@ -1,0 +1,802 @@
+[
+  {
+    "bioguide_id": "C000127",
+    "name": "Maria Cantwell",
+    "wiki_name": "Maria Cantwell",
+    "state": "WA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Maria_Cantwell_%28cropped%29.jpg/320px-Maria_Cantwell_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000367",
+    "name": "Amy Klobuchar",
+    "wiki_name": "Amy Klobuchar",
+    "state": "MN",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S000033",
+    "name": "Bernard Sanders",
+    "wiki_name": "Bernie Sanders",
+    "state": "VT",
+    "party": "Independent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bernie_Sanders_2023_%28cropped%29.jpg/320px-Bernie_Sanders_2023_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000802",
+    "name": "Sheldon Whitehouse",
+    "wiki_name": "Sheldon Whitehouse",
+    "state": "RI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sheldon_Whitehouse%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg/320px-Sheldon_Whitehouse%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001261",
+    "name": "John Barrasso",
+    "wiki_name": "John Barrasso",
+    "state": "WY",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/John_Barrasso_official_portrait_112th_Congress_%28cropped%29.jpg/320px-John_Barrasso_official_portrait_112th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000437",
+    "name": "Roger F. Wicker",
+    "wiki_name": "Roger Wicker",
+    "state": "MS",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Roger_F._Wicker_crop.jpg/320px-Roger_F._Wicker_crop.jpg"
+  },
+  {
+    "bioguide_id": "C001035",
+    "name": "Susan M. Collins",
+    "wiki_name": "Susan Collins",
+    "state": "ME",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Senator_Susan_Collins_2014_official_portrait_%28cropped%29.jpg/320px-Senator_Susan_Collins_2014_official_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001056",
+    "name": "John Cornyn",
+    "wiki_name": "John Cornyn",
+    "state": "TX",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/John_Cornyn_%28cropped%29.jpg/320px-John_Cornyn_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "D000563",
+    "name": "Richard J. Durbin",
+    "wiki_name": "Dick Durbin",
+    "state": "IL",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dick_Durbin_2022_official_portrait_%28cropped%29_2.jpg/320px-Dick_Durbin_2022_official_portrait_%28cropped%29_2.jpg"
+  },
+  {
+    "bioguide_id": "G000359",
+    "name": "Lindsey Graham",
+    "wiki_name": "Lindsey Graham",
+    "state": "SC",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%28cropped%29.jpg/320px-U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M000355",
+    "name": "Mitch McConnell",
+    "wiki_name": "Mitch McConnell",
+    "state": "KY",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mitch_McConnell_portrait_2016.jpg/320px-Mitch_McConnell_portrait_2016.jpg"
+  },
+  {
+    "bioguide_id": "M001176",
+    "name": "Jeff Merkley",
+    "wiki_name": "Jeff Merkley",
+    "state": "OR",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jeff_Merkley%2C_115th_official_photo_%28cropped%29.jpg/320px-Jeff_Merkley%2C_115th_official_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "R000122",
+    "name": "Jack Reed",
+    "wiki_name": "Jack Reed",
+    "state": "RI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Senator_Jack_Reed_Official_Portrait_%28cropped%29.jpg/320px-Senator_Jack_Reed_Official_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "R000584",
+    "name": "James E. Risch",
+    "wiki_name": "Jim Risch",
+    "state": "ID",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jim_Risch_official_portrait_%28cropped%29.jpg/320px-Jim_Risch_official_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001181",
+    "name": "Jeanne Shaheen",
+    "wiki_name": "Jeanne Shaheen",
+    "state": "NH",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shaheen_Senate_Portrait_%28cropped%29_%28cropped%29.jpg/320px-Shaheen_Senate_Portrait_%28cropped%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000805",
+    "name": "Mark R. Warner",
+    "wiki_name": "Mark Warner",
+    "state": "VA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mark_Warner_2025_%28cropped%29.jpg/320px-Mark_Warner_2025_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "G000555",
+    "name": "Kirsten E. Gillibrand",
+    "wiki_name": "Kirsten Gillibrand",
+    "state": "NY",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress_%284x5_crop%29.jpg/320px-Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress_%284x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "C001088",
+    "name": "Christopher A. Coons",
+    "wiki_name": "Chris Coons",
+    "state": "DE",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chris_Coons%2C_official_portrait%2C_112th_Congress_%28cropped%29.jpg/320px-Chris_Coons%2C_official_portrait%2C_112th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001230",
+    "name": "Tammy Baldwin",
+    "wiki_name": "Tammy Baldwin",
+    "state": "WI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Tammy_Baldwin%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001267",
+    "name": "Michael F. Bennet",
+    "wiki_name": "Michael Bennet",
+    "state": "CO",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Senator_Mike_Bennett_%284x5_crop%29.jpg/320px-Senator_Mike_Bennett_%284x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "B001243",
+    "name": "Marsha Blackburn",
+    "wiki_name": "Marsha Blackburn",
+    "state": "TN",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress_%28cropped%29.jpg/320px-Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001277",
+    "name": "Richard Blumenthal",
+    "wiki_name": "Richard Blumenthal",
+    "state": "CT",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Richard_Blumenthal_Official_Portrait_%284x5_crop%29.jpg/320px-Richard_Blumenthal_Official_Portrait_%284x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "B001236",
+    "name": "John Boozman",
+    "wiki_name": "John Boozman",
+    "state": "AR",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Senator_John_Boozman_Official_Portrait_%28115th_Congress%29_%28cropped%29.jpg/320px-Senator_John_Boozman_Official_Portrait_%28115th_Congress%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001047",
+    "name": "Shelley Moore Capito",
+    "wiki_name": "Shelley Moore Capito",
+    "state": "WV",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shelley_Moore_Capito_official_Senate_photo_%28cropped_2%29.jpg/320px-Shelley_Moore_Capito_official_Senate_photo_%28cropped_2%29.jpg"
+  },
+  {
+    "bioguide_id": "C001075",
+    "name": "Bill Cassidy",
+    "wiki_name": "Bill Cassidy",
+    "state": "LA",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bill_Cassidy_official_Senate_photo_%28cropped%29.jpg/320px-Bill_Cassidy_official_Senate_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C000880",
+    "name": "Mike Crapo",
+    "wiki_name": "Mike Crapo",
+    "state": "ID",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mike_Crapo_Official_Photo_110th_Congress.jpg/320px-Mike_Crapo_Official_Photo_110th_Congress.jpg"
+  },
+  {
+    "bioguide_id": "G000386",
+    "name": "Chuck Grassley",
+    "wiki_name": "Chuck Grassley",
+    "state": "IA",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chuck_Grassley_official_photo_2017_%28cropped%29.jpg/320px-Chuck_Grassley_official_photo_2017_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "H001046",
+    "name": "Martin Heinrich",
+    "wiki_name": "Martin Heinrich",
+    "state": "NM",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heinrich_Official_Headshot_2019_%28cropped%29.jpg/320px-Heinrich_Official_Headshot_2019_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "H001042",
+    "name": "Mazie K. Hirono",
+    "wiki_name": "Mazie Hirono",
+    "state": "HI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mazie_Hirono%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Mazie_Hirono%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "H001061",
+    "name": "John Hoeven",
+    "wiki_name": "John Hoeven",
+    "state": "ND",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hoeven_Official_Portrait_2014_%28cropped%29.JPG/320px-Hoeven_Official_Portrait_2014_%28cropped%29.JPG"
+  },
+  {
+    "bioguide_id": "J000293",
+    "name": "Ron Johnson",
+    "wiki_name": "Ron Johnson",
+    "state": "WI",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ron_Johnson_portrait_117th_Congress_%28cropped%29.jpg/320px-Ron_Johnson_portrait_117th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "L000575",
+    "name": "James Lankford",
+    "wiki_name": "James Lankford",
+    "state": "OK",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/James_Lankford_official_portrait%2C_118th_Congress_%28cropped%29.jpg/320px-James_Lankford_official_portrait%2C_118th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "L000577",
+    "name": "Mike Lee",
+    "wiki_name": "Mike Lee",
+    "state": "UT",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mike_Lee%2C_official_portrait_%284x5_crop%29.jpg/320px-Mike_Lee%2C_official_portrait_%284x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "L000570",
+    "name": "Ben Ray Luj\u00e1n",
+    "wiki_name": "Ben Ray Luj\u00e1n",
+    "state": "NM",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ben_Ray_Lujan%2C_117th_Congress_portrait.jpg/320px-Ben_Ray_Lujan%2C_117th_Congress_portrait.jpg"
+  },
+  {
+    "bioguide_id": "M000133",
+    "name": "Edward J. Markey",
+    "wiki_name": "Ed Markey",
+    "state": "MA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Edward_Markey%2C_official_portrait%2C_114th_Congress_%28cropped%29.jpg/320px-Edward_Markey%2C_official_portrait%2C_114th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M000934",
+    "name": "Jerry Moran",
+    "wiki_name": "Jerry Moran",
+    "state": "KS",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jerry_Moran%2C_official_portrait%2C_112th_Congress_%28cropped%29.jpg/320px-Jerry_Moran%2C_official_portrait%2C_112th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001153",
+    "name": "Lisa Murkowski",
+    "wiki_name": "Lisa Murkowski",
+    "state": "AK",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lisa_Murkowski_official_photo_%28cropped%29.jpg/320px-Lisa_Murkowski_official_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001169",
+    "name": "Christopher Murphy",
+    "wiki_name": "Chris Murphy",
+    "state": "CT",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chris_Murphy%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Chris_Murphy%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001111",
+    "name": "Patty Murray",
+    "wiki_name": "Patty Murray",
+    "state": "WA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Patty_Murray%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Patty_Murray%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "P000603",
+    "name": "Rand Paul",
+    "wiki_name": "Rand Paul",
+    "state": "KY",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rand_Paul_Official_Portrait_%28cropped%29.jpg/320px-Rand_Paul_Official_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "P000595",
+    "name": "Gary C. Peters",
+    "wiki_name": "Gary Peters",
+    "state": "MI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gary_Peters_official_photo_115th_congress_%28cropped%29.jpg/320px-Gary_Peters_official_photo_115th_congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001150",
+    "name": "Adam B. Schiff",
+    "wiki_name": "Adam Schiff",
+    "state": "CA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Schiff_Adam_119th_Congress_%28close_crop%29.jpg/320px-Schiff_Adam_119th_Congress_%28close_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "S000148",
+    "name": "Charles E. Schumer",
+    "wiki_name": "Chuck Schumer",
+    "state": "NY",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chuck_Schumer_official_photo_%28cropped%29.jpg/320px-Chuck_Schumer_official_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001184",
+    "name": "Tim Scott",
+    "wiki_name": "Rick Scott",
+    "state": "SC",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg/320px-Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "T000250",
+    "name": "John Thune",
+    "wiki_name": "John Thune",
+    "state": "SD",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Thune_117th_Congress_portrait_%28cropped%29.jpg/320px-John_Thune_117th_Congress_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "V000128",
+    "name": "Chris Van Hollen",
+    "wiki_name": "Chris Van Hollen",
+    "state": "MD",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chris_Van_Hollen_official_portrait_115th_Congress_%28cropped%29.jpg/320px-Chris_Van_Hollen_official_portrait_115th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000800",
+    "name": "Peter Welch",
+    "wiki_name": "Peter Welch",
+    "state": "VT",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Peter_Welch_official_Senate_photo_%28cropped%29.jpg/320px-Peter_Welch_official_Senate_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000779",
+    "name": "Ron Wyden",
+    "wiki_name": "Ron Wyden",
+    "state": "OR",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ron_Wyden_117th_Congress_%28cropped%29.jpeg/320px-Ron_Wyden_117th_Congress_%28cropped%29.jpeg"
+  },
+  {
+    "bioguide_id": "Y000064",
+    "name": "Todd Young",
+    "wiki_name": "Todd Young",
+    "state": "IN",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sen._Todd_Young_official_photo_%28cropped%29.jpg/320px-Sen._Todd_Young_official_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001194",
+    "name": "Brian Schatz",
+    "wiki_name": "Brian Schatz",
+    "state": "HI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Brian_Schatz%2C_official_portrait%2C_113th_Congress_2_%28cropped%29.jpg/320px-Brian_Schatz%2C_official_portrait%2C_113th_Congress_2_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001095",
+    "name": "Tom Cotton",
+    "wiki_name": "Tom Cotton",
+    "state": "AR",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tom_Cotton_official_Senate_photo_%28cropped%29.jpg/320px-Tom_Cotton_official_Senate_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "D000622",
+    "name": "Tammy Duckworth",
+    "wiki_name": "Tammy Duckworth",
+    "state": "IL",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tammy_Duckworth_115th_official_portrait_%28cropped%29.jpg/320px-Tammy_Duckworth_115th_official_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000817",
+    "name": "Elizabeth Warren",
+    "wiki_name": "Elizabeth Warren",
+    "state": "MA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elizabeth_Warren--2016_Official_Portrait--%28cropped%29_%28cropped%29.jpg/320px-Elizabeth_Warren--2016_Official_Portrait--%28cropped%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000383",
+    "name": "Angus S. King, Jr.",
+    "wiki_name": "Angus King",
+    "state": "ME",
+    "party": "Independent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Angus_King%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/320px-Angus_King%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "D000618",
+    "name": "Steve Daines",
+    "wiki_name": "Steve Daines",
+    "state": "MT",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Steve_Daines%2C_Official_Portrait%2C_116th_Congress_%28cropped%29.jpg/320px-Steve_Daines%2C_Official_Portrait%2C_116th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001096",
+    "name": "Kevin Cramer",
+    "wiki_name": "Kevin Cramer",
+    "state": "ND",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kevin_Cramer%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg/320px-Kevin_Cramer%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "F000463",
+    "name": "Deb Fischer",
+    "wiki_name": "Deb Fischer",
+    "state": "NE",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sen._Deb_Fischer_%28R-NE%29%2C_official_portrait%2C_118th_United_States_Congress_%28cropped%29.jpg/320px-Sen._Deb_Fischer_%28R-NE%29%2C_official_portrait%2C_118th_United_States_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001190",
+    "name": "Markwayne Mullin",
+    "wiki_name": "Markwayne Mullin",
+    "state": "OK",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Markwayne_Mullin_official_Senate_photo_%28cropped%29.jpg/320px-Markwayne_Mullin_official_Senate_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001098",
+    "name": "Ted Cruz",
+    "wiki_name": "Ted Cruz",
+    "state": "TX",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ted_Cruz_official_116th_portrait_%28cropped%29.jpg/320px-Ted_Cruz_official_116th_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000384",
+    "name": "Tim Kaine",
+    "wiki_name": "Tim Kaine",
+    "state": "VA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tim_Kaine%2C_official_portrait_%28119th_Congress%29_%28cropped_2%29.jpg/320px-Tim_Kaine%2C_official_portrait_%28119th_Congress%29_%28cropped_2%29.jpg"
+  },
+  {
+    "bioguide_id": "B001288",
+    "name": "Cory A. Booker",
+    "wiki_name": "Cory Booker",
+    "state": "NJ",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cory_Booker%2C_official_portrait_%28119th_Congress%29_%28cropped%29.jpg/320px-Cory_Booker%2C_official_portrait_%28119th_Congress%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "G000574",
+    "name": "Ruben Gallego",
+    "wiki_name": "Ruben Gallego",
+    "state": "AZ",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Senator_Ruben_Gallego_Official_Portrait_%28cropped%29.jpg/320px-Senator_Ruben_Gallego_Official_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001198",
+    "name": "Dan Sullivan",
+    "wiki_name": "Dan Sullivan",
+    "state": "AK",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/320px-Senator_Dan_Sullivan_official_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "E000295",
+    "name": "Joni Ernst",
+    "wiki_name": "Joni Ernst",
+    "state": "IA",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Joni_Ernst%2C_official_portrait%2C_116th_Congress_3_%28cropped%29.jpg/320px-Joni_Ernst%2C_official_portrait%2C_116th_Congress_3_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "T000476",
+    "name": "Thom Tillis",
+    "wiki_name": "Thom Tillis",
+    "state": "NC",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sen._Thom_Tillis_official_photo_%28cropped%29.jpg/320px-Sen._Thom_Tillis_official_photo_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "R000605",
+    "name": "Mike Rounds",
+    "wiki_name": "Mike Rounds",
+    "state": "SD",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mike_Rounds_official_Senate_portrait_%28cropped%29.jpg/320px-Mike_Rounds_official_Senate_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000393",
+    "name": "John Kennedy",
+    "wiki_name": "John Kennedy",
+    "state": "LA",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_Neely_Kennedy%2C_official_portrait%2C_115th_Congress.jpg/320px-John_Neely_Kennedy%2C_official_portrait%2C_115th_Congress.jpg"
+  },
+  {
+    "bioguide_id": "H001076",
+    "name": "Margaret Wood Hassan",
+    "wiki_name": "Maggie Hassan",
+    "state": "NH",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maggie_Hassan%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg/320px-Maggie_Hassan%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001113",
+    "name": "Catherine Cortez Masto",
+    "wiki_name": "Catherine Cortez Masto",
+    "state": "NV",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Catherine_Cortez_Masto_portrait_red_%28_4x5_crop%29.jpg/320px-Catherine_Cortez_Masto_portrait_red_%28_4x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "B001303",
+    "name": "Lisa Blunt Rochester",
+    "wiki_name": "Lisa Blunt Rochester",
+    "state": "DE",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Senator_Blunt_Rochester_Official_Portrait_%28cropped%29.jpg/320px-Senator_Blunt_Rochester_Official_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001299",
+    "name": "Jim Banks",
+    "wiki_name": "Jim Banks",
+    "state": "IN",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jim_Banks_Official_Senate_Portrait_%28cropped%29.jpg/320px-Jim_Banks_Official_Senate_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001198",
+    "name": "Roger Marshall",
+    "wiki_name": "Roger Marshall",
+    "state": "KS",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Roger_Marshall_117th_Congress_portrait_%28cropped%29.jpg/320px-Roger_Marshall_117th_Congress_portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "B001305",
+    "name": "Ted Budd",
+    "wiki_name": "Ted Budd",
+    "state": "NC",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Senator_Ted_Budd_official_portrait_%28cropped_2%29.jpg/320px-Senator_Ted_Budd_official_portrait_%28cropped_2%29.jpg"
+  },
+  {
+    "bioguide_id": "R000608",
+    "name": "Jacky Rosen",
+    "wiki_name": "Jacky Rosen",
+    "state": "NV",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Senator_Jacky_Rosen_Official_Portrait_%282022%29_%28cropped%29.jpg/320px-Senator_Jacky_Rosen_Official_Portrait_%282022%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "C001114",
+    "name": "John R. Curtis",
+    "wiki_name": "John Curtis",
+    "state": "UT",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Senator_John_Curtis_Official_Portrait_%28cropped%29.jpg/320px-Senator_John_Curtis_Official_Portrait_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001203",
+    "name": "Tina Smith",
+    "wiki_name": "Tina Smith",
+    "state": "MN",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tina_Smith%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg/320px-Tina_Smith%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "H001079",
+    "name": "Cindy Hyde-Smith",
+    "wiki_name": "Cindy Hyde-Smith",
+    "state": "MS",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Official_headshot_of_US_Senator_Cindy_Hyde-Smith_%28cropped%29.jpg/320px-Official_headshot_of_US_Senator_Cindy_Hyde-Smith_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001208",
+    "name": "Elissa Slotkin",
+    "wiki_name": "Elissa Slotkin",
+    "state": "MI",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Elissa_Slotkin_119th_Congress_%28cropped%29.jpg/320px-Elissa_Slotkin_119th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000394",
+    "name": "Andy Kim",
+    "wiki_name": "Andy Kim",
+    "state": "NJ",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sen_Andy_Kim_118th_Congress_%28cropped%29.jpg/320px-Sen_Andy_Kim_118th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001217",
+    "name": "Rick Scott",
+    "wiki_name": "Rick Scott",
+    "state": "FL",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg/320px-Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "H001089",
+    "name": "Josh Hawley",
+    "wiki_name": "Josh Hawley",
+    "state": "MO",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Josh_Hawley%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg/320px-Josh_Hawley%2C_official_portrait%2C_116th_congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "K000377",
+    "name": "Mark Kelly",
+    "wiki_name": "Mark Kelly",
+    "state": "AZ",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mark_Kelly%2C_Official_Portrait_117th_%28cropped%29_2.jpg/320px-Mark_Kelly%2C_Official_Portrait_117th_%28cropped%29_2.jpg"
+  },
+  {
+    "bioguide_id": "L000571",
+    "name": "Cynthia M. Lummis",
+    "wiki_name": "Cynthia Lummis",
+    "state": "WY",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cynthia_Lummis_U.S._Senator_%28cropped%29.jpg/320px-Cynthia_Lummis_U.S._Senator_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "T000278",
+    "name": "Tommy Tuberville",
+    "wiki_name": "Tommy Tuberville",
+    "state": "AL",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tommy_Tuberville%2C_official_portrait%2C_118th_Congress_%28slight_crop%29.jpg/320px-Tommy_Tuberville%2C_official_portrait%2C_118th_Congress_%28slight_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "H000273",
+    "name": "John W. Hickenlooper",
+    "wiki_name": "John Hickenlooper",
+    "state": "CO",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/John_Hickenlooper%2C_official_portrait%2C_117th_Congress_%284x5_crop%29.jpeg/320px-John_Hickenlooper%2C_official_portrait%2C_117th_Congress_%284x5_crop%29.jpeg"
+  },
+  {
+    "bioguide_id": "H000601",
+    "name": "Bill Hagerty",
+    "wiki_name": "Bill Hagerty",
+    "state": "TN",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sen._Bill_Hagerty_official_Senate_portrait%2C_117th_Congress_%28cropped%29.jpg/320px-Sen._Bill_Hagerty_official_Senate_portrait%2C_117th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "P000145",
+    "name": "Alex Padilla",
+    "wiki_name": "Alex Padilla",
+    "state": "CA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alex_Padilla_117th_Congress_portrait_%283%29_%28crop%29.jpg/320px-Alex_Padilla_117th_Congress_portrait_%283%29_%28crop%29.jpg"
+  },
+  {
+    "bioguide_id": "O000174",
+    "name": "Jon Ossoff",
+    "wiki_name": "Jon Ossoff",
+    "state": "GA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jon_Ossoff_Senate_Portrait_2021_%28cropped%29.jpg/320px-Jon_Ossoff_Senate_Portrait_2021_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "W000790",
+    "name": "Raphael G. Warnock",
+    "wiki_name": "Raphael Warnock",
+    "state": "GA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Raphael_Warnock_official_photo_%284x5_crop%29.jpg/320px-Raphael_Warnock_official_photo_%284x5_crop%29.jpg"
+  },
+  {
+    "bioguide_id": "B001319",
+    "name": "Katie Boyd Britt",
+    "wiki_name": "Katie Britt",
+    "state": "AL",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Katie_Britt_%28cropped%29.jpg/320px-Katie_Britt_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001227",
+    "name": "Eric Schmitt",
+    "wiki_name": "Eric Schmitt",
+    "state": "MO",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress_%28cropped_2%29.jpg/320px-Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress_%28cropped_2%29.jpg"
+  },
+  {
+    "bioguide_id": "F000479",
+    "name": "John Fetterman",
+    "wiki_name": "John Fetterman",
+    "state": "PA",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/John_Fetterman_official_portrait_%283x4%29.jpg/320px-John_Fetterman_official_portrait_%283x4%29.jpg"
+  },
+  {
+    "bioguide_id": "R000618",
+    "name": "Pete Ricketts",
+    "wiki_name": "Pete Ricketts",
+    "state": "NE",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sen._Pete_Ricketts_official_portrait%2C_118th_Congress_%28cropped%29.jpg/320px-Sen._Pete_Ricketts_official_portrait%2C_118th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "A000382",
+    "name": "Angela D. Alsobrooks",
+    "wiki_name": "Angela Alsobrooks",
+    "state": "MD",
+    "party": "Democrat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sen._Angela_Alsobrooks_official_Senate_photo%2C_119th_Congress_Higher_def_%28cropped%29.jpg/320px-Sen._Angela_Alsobrooks_official_Senate_photo%2C_119th_Congress_Higher_def_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "S001232",
+    "name": "Tim Sheehy",
+    "wiki_name": "Tim Sheehy",
+    "state": "MT",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sen._Tim_Sheehy%2C_alternate_portrait%2C_119th_Congress_%28cropped%29.jpg/320px-Sen._Tim_Sheehy%2C_alternate_portrait%2C_119th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001242",
+    "name": "Bernie Moreno",
+    "wiki_name": "Bernie Moreno",
+    "state": "OH",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sen._Bernie_Moreno_official_photo%2C_119th_Congress_%28HR%29_%28cropped4%29.jpg/320px-Sen._Bernie_Moreno_official_photo%2C_119th_Congress_%28HR%29_%28cropped4%29.jpg"
+  },
+  {
+    "bioguide_id": "M001243",
+    "name": "David McCormick",
+    "wiki_name": "Dave McCormick",
+    "state": "PA",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/McCormick_Portrait_%28HR%29_%28cropped%29.jpg/320px-McCormick_Portrait_%28HR%29_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "J000312",
+    "name": "James C. Justice",
+    "wiki_name": "Jim Justice",
+    "state": "WV",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Senator_Jim_Justice_Official_Portrait_with_flags.jpg/320px-Senator_Jim_Justice_Official_Portrait_with_flags.jpg"
+  },
+  {
+    "bioguide_id": "H001104",
+    "name": "Jon Husted",
+    "wiki_name": "Jon Husted",
+    "state": "OH",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sen._Jon_Husted_official_portrait%2C_119th_Congress_%28cropped%29.jpg/320px-Sen._Jon_Husted_official_portrait%2C_119th_Congress_%28cropped%29.jpg"
+  },
+  {
+    "bioguide_id": "M001244",
+    "name": "Ashley Moody",
+    "wiki_name": "Ashley Moody",
+    "state": "FL",
+    "party": "Republican",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Official_Portrait_of_Senator_Ashley_Moody_%28cropped%29.jpg/320px-Official_Portrait_of_Senator_Ashley_Moody_%28cropped%29.jpg"
+  }
+]

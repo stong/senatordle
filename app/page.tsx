@@ -87,7 +87,7 @@ export default function Home() {
       <div className="max-w-2xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">
-            Guess the Senator&apos;s Party
+            Senatordle
           </h1>
           <p className="text-gray-600">
             Can you tell if they&apos;re Republican or Democrat from their portrait?
