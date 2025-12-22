@@ -20,6 +20,7 @@ export default function Home() {
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [usedSenators, setUsedSenators] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     fetch('/senators_metadata.json')
@@ -68,6 +69,13 @@ export default function Home() {
     }
   };
 
+  const handleShare = () => {
+    const shareText = `Senatordle\n\nScore: ${score.correct}/${score.total}\nAccuracy: ${accuracy}%\n\nsenatordle.com`;
+    navigator.clipboard.writeText(shareText);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-50 to-red-50 flex items-center justify-center">
@@ -103,6 +111,17 @@ export default function Home() {
               Accuracy: {accuracy}%
             </div>
           </div>
+
+          {score.total > 0 && (
+            <div className="flex justify-center mb-6">
+              <button
+                onClick={handleShare}
+                className="px-6 py-2 bg-gray-800 hover:bg-gray-700 text-white rounded-lg font-medium transition-colors"
+              >
+                {copied ? 'Copied!' : 'Share Score'}
+              </button>
+            </div>
+          )}
 
           <div className="mb-6 relative flex justify-center">
             <div className="relative w-full max-w-sm aspect-[4/5] bg-gray-100 rounded-lg overflow-hidden">
