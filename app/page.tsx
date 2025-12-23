@@ -188,6 +188,27 @@ export default function Home() {
             {senators.length} current US Senators • {usedSenators.size} seen in this round
           </p>
         </div>
+
+        <footer className="text-center mt-4 text-sm text-gray-600">
+          <div className="flex justify-center gap-4">
+            <a
+              href="https://github.com/stong/senatordle"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-gray-800 underline"
+            >
+              Github
+            </a>
+            <a
+              href="https://x.com/gf_256/status/2002997989221306753"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-gray-800 underline"
+            >
+              X
+            </a>
+          </div>
+        </footer>
       </div>
     </div>
   );
