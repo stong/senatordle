@@ -35,7 +35,9 @@ export default function Home() {
   const handleGuess = (guess: 'Republican' | 'Democrat') => {
     if (!currentSenator || feedback) return;
 
-    const isCorrect = currentSenator.party === guess;
+    // Accept Democrat for Independents (like Bernie Sanders who caucuses with Democrats)
+    const isCorrect = currentSenator.party === guess ||
+                     (currentSenator.party === 'Independent' && guess === 'Democrat');
     setFeedback(isCorrect ? 'correct' : 'incorrect');
     setScore(prev => ({
       correct: prev.correct + (isCorrect ? 1 : 0),
